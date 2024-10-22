@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class Mytestcases {
-	
+	// My name 
 	WebDriver driver = new ChromeDriver();
 
 	String myWebsite = "https://automationteststore.com/";
